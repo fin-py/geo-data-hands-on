@@ -7,4 +7,5 @@ chapters:
 - file: gis
 - file: geo-coding
 - file: geometric
+- file: data_types
 - file: geopandas
