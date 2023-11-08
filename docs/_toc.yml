@@ -10,3 +10,4 @@ chapters:
 - file: data_types
 - file: geopandas
 - file: crs
+- file: plotly
