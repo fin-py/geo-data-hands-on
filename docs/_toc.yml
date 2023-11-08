@@ -9,3 +9,4 @@ chapters:
 - file: geometric
 - file: data_types
 - file: geopandas
+- file: crs
