@@ -11,3 +11,4 @@ chapters:
 - file: geopandas
 - file: crs
 - file: plotly
+- file: folium
