@@ -7,7 +7,7 @@ chapters:
 - file: gis
 - file: geo-coding
 - file: geometric
-- file: data_types
+- file: data-types
 - file: geopandas
 - file: crs
 - file: plotly
