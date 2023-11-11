@@ -12,3 +12,4 @@ chapters:
 - file: crs
 - file: plotly
 - file: folium
+- file: example
